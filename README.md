@@ -3,6 +3,10 @@ Mini Horror Orb Shooter Game with Inductive Chargers
 
 ![Samara Scare](ReadmeImages/samara_start.PNG)
 
+# Gameplay Video
+
+[Watch the video here](https://vimeo.com/473672664)
+
 # How does this game work?
 
 While rotating the orb launcher (which you can't see because there is no mesh on it) above the hand model you can determine the direction you want to fire. Push the button under the joystick to have the orb launcher instantiate an orb and launch it. However, if you want to make the orbs bigger, move the inductive chargers closer to each other. The furthest distance they work is 2 cm. The closer they are, the bigger the orb gets. The LED in your circuit is the indicator of the distance of the transformers. The closer they are, the brighter the LED gets and the bigger your shots.
